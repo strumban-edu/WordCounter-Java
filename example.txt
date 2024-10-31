@@ -1,0 +1,12 @@
+cat
+dog
+cat
+dogdog
+Dog
+Cat
+Catdog
+DOGcAt
+apple
+pear
+pear
+honeycomb

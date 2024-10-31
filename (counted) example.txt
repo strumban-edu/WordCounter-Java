@@ -1,0 +1,8 @@
+dogdog 1
+apple 1
+pear 2
+honeycomb 1
+cat 3
+catdog 1
+dogcat 1
+dog 2
